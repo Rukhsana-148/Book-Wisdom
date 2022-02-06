@@ -1,0 +1,161 @@
+*{
+    margin : 0px 0px;
+    padding : 0px 0px;
+    box-sizing: border-box;
+}
+.container{
+    max-width : 1368px;
+
+}
+.logo {
+    padding-top: 30px;
+    padding-bottom: 40px;
+    text-align: center;
+    color : rgb(116, 114, 114);
+}
+.logo h2{
+    font-size: 34px;
+    color :  rgb(116, 114, 114);
+}
+.logo h2 span{
+    font-size : 46px;
+}
+.logo i{
+    margin-right: 10px;
+}
+.menu {
+    color:rgb(116, 114, 114);
+    background-color: rgb(214, 211, 211);
+}
+.menu nav{
+    display: flex;
+}
+.menu .row{
+    padding: 10px 20px;
+}
+.menu ul li{
+    list-style: none;
+    display: inline-block;
+    margin-right :  30px;
+    font-size: 17px;
+}
+.menu .col-sm-5{
+    text-align: center;
+    
+}
+.mySlides img{
+    width: 100%;
+}
+.icon{
+    background-color: rgb(122, 27, 29);
+    text-align: center;
+   
+    color: white;
+}
+.icon .col-sm-2{
+    border-left: 1px solid brown;
+    padding: 50px 10px;
+    border-right: 1px solid brown;
+}
+.icon .col-sm-3{
+    border-left: 1px solid brown;
+    padding: 50px 10px;
+    border-right: 1px solid brown;
+}
+.divide{
+    padding: 40px 40px;
+    color:rgb(116, 114, 114);
+}
+
+.divide .col-sm-6 img{
+   width: 100%;
+}
+.divide ul{
+    padding-left: 50px;
+}
+.divide ul li{
+    list-style: none;
+}
+.divide .read{
+    width : 100px;
+    height: 40px;
+    background-color: rgb(122, 27, 29);
+    color: white;
+    padding: 10px 10px;
+}
+.divide h2{
+    border-bottom: 1px solid grey;
+    padding-bottom: 5px;
+}
+.divide .row .row{
+    padding-top: 30px;
+}
+.event span{
+    color: brown;
+}
+
+.part .one{
+    text-align: center;
+}
+
+.part .one{
+    background-color: rgb(131, 181, 51);
+    color: white;
+    margin-bottom: 20px;
+}
+.part .two{
+    background-color: rgb(253, 164, 106);
+    color: white;
+    margin-bottom: 20px;
+}
+.part .three{
+    background-color: rgb(255, 198, 0);
+    color: white;
+    margin-bottom: 20px;
+}
+.part .four{
+    background-color: rgb(185, 40, 44);
+    color: white;
+    margin-bottom: 20px;
+}
+.part .span {
+    color: brown;
+}
+.part i{
+    margin-right: 5px;
+}
+.part .col-sm-6 p{
+    padding-top: 10px;
+}
+.part span{
+    color :  brown;
+}
+.part ul li{
+    list-style: none;
+    color: rgb(116, 114, 114);
+    margin-bottom: 5px;
+}
+.bottom{
+    text-align: center;
+    background-color: rgb(64, 15, 16);
+    color: white;
+}
+.bottom .col-sm-6{
+    padding: 20px 20px;
+}
+.bottom .input{
+  background-color: rgb(189, 52, 52);
+  border: none;
+}
+.bottom button{
+    border: none;
+    padding: 0px 10px;
+}
+.right{
+    background-color: rgb(184, 80, 80);
+    color:rgb(214, 211, 211);
+    padding: 20px 0px;
+}
+.right p{
+    text-align: center;
+}
